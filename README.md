@@ -1,4 +1,17 @@
-### Hi there 👋
+言語やフレームワークの学習用リポジトリ。
+<br>
+気になったものとりあえず触って置いてる。
+* java + spring boot
+  - practice_for_java
+  - practice_for_Spring
+* python + django
+  - practice_for_python
+* golang + (gin予定)
+  - trials_ground
+* flutter
+  - remember_me
+* TS(react、next予定)
+  - practice_for_TypeScript
 
 <!--
 **yf-practice-projects/yf-practice-projects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
