@@ -6,11 +6,9 @@
   - practice_for_Spring
 * python + django
   - practice_for_python
-* golang + (gin予定)
-  - trials_ground
 * flutter
   - remember_me
-* TS(react、next予定)
+* TS
   - practice_for_TypeScript
 
 <!--
