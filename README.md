@@ -3,7 +3,10 @@
 とりあえず触って置いてる。
 * NextJs
   - login_confirm
+    > nextjs14におけるnextAuth実装例
   - learn-nextjs
+    > nextjsとreact確認用
+    > 基本的にNextJSでの実装
 * NextJs + Golang
   - cost-management
 * java + spring boot
