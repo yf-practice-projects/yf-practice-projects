@@ -1,6 +1,9 @@
 言語やフレームワークの学習用リポジトリ。
 <br>
 とりあえず触って置いてる。
+<br>
+個人開発では基本NextJS使用
+<br>
 * NextJs
   - login_confirm
     > nextjs14におけるnextAuth実装例
