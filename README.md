@@ -1,6 +1,9 @@
 言語やフレームワークの学習用リポジトリ。
 <br>
 とりあえず触って置いてる。
+* NextJs
+  - login_confirm
+  - learn-nextjs
 * NextJs + Golang
   - cost-management
 * java + spring boot
