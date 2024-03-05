@@ -1,6 +1,8 @@
 言語やフレームワークの学習用リポジトリ。
 <br>
-気になったものとりあえず触って置いてる。
+とりあえず触って置いてる。
+* NextJs + Golang
+  - cost-management
 * java + spring boot
   - practice_for_java
   - practice_for_Spring
@@ -8,8 +10,6 @@
   - practice_for_python
 * flutter
   - remember_me
-* TS
-  - practice_for_TypeScript
 
 <!--
 **yf-practice-projects/yf-practice-projects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
