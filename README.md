@@ -10,6 +10,9 @@
   - learn-nextjs
     > nextjsとreact確認用
     > 基本的にNextJSでの実装
+  - data-from-tarkov
+    > FPSゲーム「escape from tarkov」のためのデータサイト
+    > 弾の威力と貫通をグラフ化している
 * NextJs + Golang
   - cost-management
 * java + spring boot
