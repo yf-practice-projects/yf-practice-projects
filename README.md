@@ -1,39 +1,37 @@
-言語やフレームワークの学習用リポジトリ。
-<br>
-とりあえず触って置いてる。
-<br>
-個人開発では基本NextJS使用
-<br>
-* NextJs
-  - login_confirm
-    > nextjs14におけるnextAuth実装例
-  - learn-nextjs
-    > nextjsとreact確認用
-    > 基本的にNextJSでの実装
-  - data-from-tarkov
-    > FPSゲーム「escape from tarkov」のためのデータサイト
-    > 弾の威力と貫通をグラフ化している
-* NextJs + Golang
-  - cost-management
-* java + spring boot
-  - practice_for_java
-  - practice_for_Spring
-* python + django
-  - practice_for_python
-* flutter
-  - remember_me
+# Hi, I'm fujishima yoshiki
 
-<!--
-**yf-practice-projects/yf-practice-projects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Webアプリケーション開発中心のエンジニアです。
 
-Here are some ideas to get you started:
+フロントエンド・バックエンド・データベース・Webサービス開発に必要な領域を幅広く扱っています。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 技術スタック
+
+### 現場使用
+最近はNextjs中心
+- TypeScript / JavaScript
+- React / Next.js
+- Node.js / NestJS / fastify
+- java
+- MySQL / PostgreSQL
+- Docker
+- Git / GitHub
+
+### 個人使用
+- Go
+- gs
+
+## Projects
+
+個人開発や技術検証で作成したアプリケーション、インフラ構築、技術調査の内容を公開しています。
+
+各プロジェクトの詳細は、それぞれのリポジトリのREADMEに記載しています。
+
+* data-from-tarkov　（未整備）
+  - FPSゲーム「escape from tarkov」のためのデータサイト
+  - 弾の威力と貫通をグラフ化している
+  - 確かNetlifyとSupabaseを使用していたはず
+
+* blog_API_setupblog_API_setup
+  - 構築しているAPIサーバーの実装に関する内容ドキュメント
+
