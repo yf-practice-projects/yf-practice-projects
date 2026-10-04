@@ -35,3 +35,6 @@ Webアプリケーション開発中心のエンジニアです。
 * blog_API_setupblog_API_setup
   - 構築しているAPIサーバーの実装に関する内容ドキュメント
 
+* youtube_daily_release_collector
+  - 毎日Youtube上に投稿された音楽をスプレッドシートにまとめるApps Script
+  - おすすめ動画を作成をするためにデータ収集用で作成
